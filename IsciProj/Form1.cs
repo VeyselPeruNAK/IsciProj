@@ -24,7 +24,7 @@ namespace MCD_SystemIOWinForm
         private void btnPersonelGetir_Click(object sender, EventArgs e)
         {
 
-            MessageBox.Show("Şimdi getiriliyor...");
+            MessageBox.Show("Şimdi getiriliyor...12");
             personelListesi = dataIslemleri.PersonelGetir(150);
             lstPersonel.DataSource = personelListesi;
         }
