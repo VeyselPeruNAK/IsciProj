@@ -39,4 +39,9 @@ namespace MCD_SystemIOWinForm
             txtUlke.Text = secilenPersonel.ulke;
         }
     }
+
+
+
+
+
 }
