@@ -1,0 +1,10 @@
+C:\Users\veyse\source\repos\IsciProj\IsciProj\obj\Debug\IsciProj.Properties.Resources.resources
+C:\Users\veyse\source\repos\IsciProj\IsciProj\obj\Debug\IsciProj.csproj.GenerateResource.cache
+C:\Users\veyse\source\repos\IsciProj\IsciProj\obj\Debug\IsciProj.csproj.CoreCompileInputs.cache
+C:\Users\veyse\source\repos\IsciProj\IsciProj\bin\Debug\IsciProj.exe.config
+C:\Users\veyse\source\repos\IsciProj\IsciProj\bin\Debug\IsciProj.exe
+C:\Users\veyse\source\repos\IsciProj\IsciProj\bin\Debug\IsciProj.pdb
+C:\Users\veyse\source\repos\IsciProj\IsciProj\bin\Debug\FakeData.pdb
+C:\Users\veyse\source\repos\IsciProj\IsciProj\obj\Debug\IsciProj.csproj.CopyComplete
+C:\Users\veyse\source\repos\IsciProj\IsciProj\obj\Debug\IsciProj.exe
+C:\Users\veyse\source\repos\IsciProj\IsciProj\obj\Debug\IsciProj.pdb
